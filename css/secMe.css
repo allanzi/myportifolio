@@ -1,0 +1,27 @@
+.secMe {
+	background-color: #2a2a2a;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.secMe .meGroup {
+	color: #fff;
+}
+
+.description p {
+	font-size: 230%;
+	letter-spacing: .2px;
+	text-transform: uppercase;
+}
+
+.description h2 {
+	font-size: 130%;
+	width: 65%;
+	line-height: 30px;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%,0);
+}
+
+.me {
+	width: 20%;
+}
